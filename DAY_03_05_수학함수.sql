@@ -14,7 +14,7 @@ FROM DUAL;
 SELECT MOD(5, 2)
 FROM DUAL;
 
--- 5. 정소 올림(큰 정수로 내림)
+-- 5. 정수 올림(큰 정수로 올림)
 SELECT CEIL(1.1)
 FROM DUAL;
 
